@@ -31,11 +31,3 @@ This project explores how car attributes (year, km driven, fuel, transmission, s
 - `transmission`: Manual/Automatic → 0/1  
 - `owner`: First/Second/Third/Fourth & Above/Test Drive Car → 0/1/2/3/4
 
----
-
-## 🚀 Getting Started
-
-### 1) Clone
-```bash
-git clone https://github.com/<your-username>/Car-Price-Prediction.git
-cd Car-Price-Prediction

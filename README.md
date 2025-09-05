@@ -21,8 +21,8 @@ This project explores how car attributes (year, km driven, fuel, transmission, s
 ---
 
 ## 📂 Dataset
-- Source: **Car Dekho** (public used-car listings)
-- File used: `CAR DETAILS FROM CAR DEKHO.csv`
+- Source: **kaggle car dataset** (public used-car listings)
+- File used: `car_dataset.csv`
 - Columns: `name, year, selling_price, km_driven, fuel, seller_type, transmission, owner`
 
 > Note: Categorical columns are **label-encoded**:

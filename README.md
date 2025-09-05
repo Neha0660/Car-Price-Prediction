@@ -33,8 +33,6 @@ This project explores how car attributes (year, km driven, fuel, transmission, s
 
 ---
 
----
-
 ## 🧪 Models & Results
 
 ### Train/Test Split
